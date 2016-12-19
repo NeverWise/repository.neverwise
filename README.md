@@ -1,2 +1,2 @@
 # repository.neverwise
-Kodi repository for my addons
+Kodi repository for my addons.
